@@ -30,3 +30,13 @@ p {
   color: cadetblue;
   font-weight: bold;
 }
+
+footer {
+  text-align: center;
+  padding-top: 6rem;
+  font-size: small;
+}
+
+.title {
+  font-style: italic;
+}
