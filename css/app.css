@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  color: darkblue;
+  font-size: 3rem;
+}
+div {
+  padding: 0 2rem 2rem 2rem;
+  border: 2px solid black;
+  width: 30rem;
+  margin: 5rem auto;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+h2 {
+  text-align: center;
+}
+
+pre {
+  margin: 0;
+  color: darkorange;
+  font-weight: 900;
+}
+
+p {
+  margin: 0;
+  font-family: monospace;
+  color: cadetblue;
+  font-weight: bold;
+}
