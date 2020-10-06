@@ -51,6 +51,8 @@ function replaceAll(string, search, replace) {
 
    Join: an array method to create and return a new string by concatenating 
    all of the elements in an array 
+
+   https://dmitripavlutin.com/replace-all-string-occurrences-javascript/
   
   */
   return string.split(search).join(replace);
